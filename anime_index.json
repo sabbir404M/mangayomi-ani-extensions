@@ -145,7 +145,7 @@
   {
     "id": "aniwave",
     "name": "Aniwave",
-    "manifestURI": "https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/javascript/anime/src/en/aniwave.js",
+    "manifestURI": "https://raw.githubusercontent.com/sabbir404M/mangayomi-ani-extensions/refs/heads/main/manifest.json",
     "language": "typescript",
     "type": "onlinestream-provider",
     "description": "Aniwave is an online streaming provider for anime in en.",
