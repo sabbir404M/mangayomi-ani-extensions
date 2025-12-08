@@ -1,20 +1,8 @@
-[
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniyomi.org&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CranberrySoup/AniyomiCompatExtension",
-        "fileSize": 36379,
-        "status": 1,
-        "authors": [
-            "CranberrySoup"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 7,
-        "internalName": "AniyomiProvider",
-        "description": "Use Aniyomi Extensions in CloudStream!\nNot guaranteed to work perfectly.",
-        "url": "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/builds/AniyomiProvider.cs3",
-        "name": "AniyomiProvider"
-    }
-]
+{
+    "name": "Aniyomi Compat",
+    "description": "Use Aniyomi Extensions in CloudStream!",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/builds/plugins.json"
+    ]
+}
