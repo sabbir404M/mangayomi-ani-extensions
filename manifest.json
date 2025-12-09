@@ -2,7 +2,7 @@
   "id": "animeworldindia",
   "name": "AnimeWorldIndia",
   "version": "1.0.0",
-  "manifestURI": "https://raw.githubusercontent.com/example/online-stream-providers/main/animeworldindia/manifest.json",
+  "manifestURI": "https://raw.githubusercontent.com/sabbir404M/mangayomi-ani-extensions/refs/heads/main/manifest.json",
   "language": "typescript",
   "type": "onlinestream-provider",
   "description": "AnimeWorldIndia - Hindi dubbed and subbed anime streaming with multi-language support.",
